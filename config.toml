@@ -167,7 +167,7 @@ googleAnalytics = 'G-K57TX81Z36'
         details = "Developing a corporate social responsibility (CSR) offer to train teams to the sustainable IT"
 
         [[params.experience.list]]
-        title = "Independent Contractor - Communication & Design"
+        title = "Contractor - Communication & Design"
         dates = "2021 - 2022"
         company = "Beyondframes"
         skills = "Communication, Strategy, Design"
@@ -229,14 +229,20 @@ googleAnalytics = 'G-K57TX81Z36'
         details = "Support international networks teams and program managers in the implementation of advocacy actions: defining an influencing strategy, meeting decision-makers, responding to government consultations..."
 
         [[params.experience.list]]
-        title = "Chief Technology Officer"
-        dates = "2017 - 2019"
-        company = "TellMePlus"
-        skills = "Golang, Streaming, k8s"
+        title = "Communication Officer"
+        dates = "2013 - 2016"
+        company = "CARI NGO"
+        skills = "Front dev, Print, Digital, Communication Strategy"
         location = "Montpellier (FR)"
-        details = "Drive the roadmap, technical strategy and key architecture of Predictive Objects to transform our proof of concept into product. A clound agnostic platform, available on premise, able to ingest realtime sensors data, compute extended features, build datasets and use supervised machine learning to train Predictive Objects models to anticipate failures on industrial plants."
-
+        details = "Create and implement organizational digital communication plans that align with the NGO’s missions and brand:"
+        [//]: <> Drive the roadmap, communication strategy and key milestones of 4 civil society networks in 10 countries in Africa & Middle East."<>
         [[params.experience.list]]
+        details = 
+        [[params.experience.list]]
+        details = "As Communication strategic focal point for 3 civil society networks in Sahelian and Maghreb region, I created communication tools to assist dialogue between actors involved in drylands."
+      
+
+         
         title = "Engineering Manager - DevOps"
         dates = "2015 - 2017"
         company = "TellMePlus"
