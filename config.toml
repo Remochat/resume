@@ -90,13 +90,16 @@ googleAnalytics = 'G-K57TX81Z36'
         enable = true
 
         [[params.education.list]]
-        degree = "MSc in Computer Science - Software Design"
-        university = "EPSI Montpellier (FR)"
-        dates = "2009 - 2012"
+        degree = "Master - Communication & cultural events"
+        university = "Université d'Avignon (FR)"
+        dates = "2009 - 2010"
+        degree = "Master - Businesses Communication"
+        university = "Université de Montpellier (FR)"
+        dates = "2008 - 2009"
         [[params.education.list]]
-        degree = "BSc Computer Science - Management"
-        university = "IUT Montpellier (FR)"
-        dates = "2007 - 2009"
+        degree = "Bachelor - Communication Sciences"
+        university = "Université d'Avignon (FR)"
+        dates = "2005 - 2008"
 
     [params.awards]
         enable = false
