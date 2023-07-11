@@ -93,6 +93,7 @@ googleAnalytics = 'G-K57TX81Z36'
         degree = "Master - Communication & cultural events"
         university = "Université d'Avignon (FR)"
         dates = "2009 - 2010"
+        [[params.education.list]]
         degree = "Master - Businesses Communication"
         university = "Université de Montpellier (FR)"
         dates = "2008 - 2009"
