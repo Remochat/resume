@@ -41,34 +41,50 @@ googleAnalytics = 'G-K57TX81Z36'
         [[params.skills.list]]
         title = "Professional"
         [[params.skills.list.items]]
-        details = "Technical leadership"
+        details = "Communication & design"
         [[params.skills.list.items]]
-        details = "Distributed team management"
+        details = "Digital transformation"
         [[params.skills.list.items]]
-        details = "Professional and personal development"
+        details = "People management"
         [[params.skills.list.items]]
-        details = "Technical strategy"
+        details = "Summit & event management"
         [[params.skills.list.items]]
         details = "Agile methodologies (scrum/kanban)"
-        [[params.skills.list.items]]
-        details = "Effective communication"
         [[params.skills.list.items]]
         details = "Estimation and planning"
 
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "Distributed systems"
+        details = "Adobe Creative Suite"
         [[params.skills.list.items]]
-        details = "Go/Python/Ruby/Java/Bash"
+        details = "SEO / SEA , Google Ads"
         [[params.skills.list.items]]
-        details = "AWS/Google cloud"
+        details = "Html, CSS, JS"
         [[params.skills.list.items]]
-        details = "OAuth2/OpenID Connect"
+        details = "CMS (Drupal, Wordpress, EZ)"
         [[params.skills.list.items]]
-        details = "Docker/ECS/k8s"
+        details = "Git, GitHub"
         [[params.skills.list.items]]
-        details = "Web services/SOA"
+        details = "Jira"
+        [[params.skills.list.items]]
+        details = "Figma, Miro, Mural"
+        [[params.skills.list.items]]
+        details = "MacOS, Windows & Linux"
+
+        [[params.skills.list]]
+        title = "Soft"
+        [[params.skills.list.items]]
+        details = "Impact driven"
+        [[params.skills.list.items]]
+        details = "Insightful"
+        [[params.skills.list.items]]
+        details = "Proactive"
+        [[params.skills.list.items]]
+        details = "Self reliant"
+        [[params.skills.list.items]]
+        details = "Team spirited"
+    
 
     [params.education]
         enable = true
