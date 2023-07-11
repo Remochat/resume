@@ -167,18 +167,17 @@ googleAnalytics = 'G-K57TX81Z36'
         details = "Developing a corporate social responsibility (CSR) offer to train teams to the sustainable IT"
 
         [[params.experience.list]]
-        title = "Engineering Manager"
-        dates = "2020 - 2021"
-        company = "Smallpdf"
-        skills = "Golang, AWS, Postgres, CQRS"
+        title = "Independent Contractor - Communication & Design"
+        dates = "2021 - 2022"
+        company = "Beyondframes"
+        skills = "Communication, Strategy, Design"
         location = "Zurich (CH)"
-        details = "Hands-on engineering manager, hired a cross functional team and delivered a CQRS & Event sourcing based digital signature solution for **40M+ unique active users per month**."
         [[params.experience.list.items]]
-        details = "Hands-on technical leadership, code reviews, technical discussions"
+        details = "Helping S&M businesses build and monitor their strategy"
         [[params.experience.list.items]]
-        details = "Estimations, planning, prioritization, delivery, monitoring, maintenance, support"
+        details = "Communication consulting to strengthen the information exchange process between projects stakeholders"
         [[params.experience.list.items]]
-        details = "Team health, professional and personal development, coaching, mentoring"
+        details = "Designing and maintaining brand consistency (print, digital) : brochure, social media graphics, event materials, websites, etc."
 
         [[params.experience.list]]
         title = "Senior Software Engineer - Backend"
