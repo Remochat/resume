@@ -7,15 +7,15 @@ googleAnalytics = 'G-K57TX81Z36'
 [params]
     baseURL = "https://ge-allemand.me"
     author = "geraldine allemand"
-    description = "david terranova resume. hands on engineering manager | software architect with 12+ years of experience handling complex products and teams. 6 years of Go professional experience"
+    description = "geraldine allemand resume. Strategic communicator / Project and event hands'on manager | communication director with 13+ years of experience handling complex projects and teams."
 
     primaryColor = "#61788c"
     textPrimaryColor = "#292929"
 
     [params.profile]
         enable = true
-        name = "David Terranova"
-        tagline = "Engineering manager | Software architect"
+        name = "Geraldine Allemand"
+        tagline = "Strategic communicator | Project and event hands'on manager"
         avatar = "avatar.png"
 
     [params.contact]
@@ -25,19 +25,15 @@ googleAnalytics = 'G-K57TX81Z36'
         [[params.contact.list]]
         icon = "fas fa-phone-square"
         url = "tel:#"
-        text = "+33 6 33 69 62 84"
-        [[params.contact.list]]
-        icon = "fas fa-phone-square"
-        url = "tel:#"
-        text = "+41 76 232 56 77"
+        text = "+33 6 85 33 41 54"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:#"
-        text = "davidp.terranova[@]gmail.com"
+        text = "geraldine.allemand[@]gmail.com"
         [[params.contact.list]]
         icon = "fas fa-globe"
-        url = "https://davidterranova.github.io/resume/"
-        text = "dterranova.fr"
+        url = "https://remochat.github.io/resume/"
+        text = "ge-allemand.me"
 
     [params.skills]
         enable = true
