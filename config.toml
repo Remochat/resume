@@ -1,12 +1,12 @@
-baseURL = 'https://dterranova.fr'
+baseURL = 'https://ge-allemand.me'
 languageCode = 'en-us'
-title = 'david terranova resume. engineering manager | software architect with 12+ years of experience | 6 years of Go professional experience'
+title = 'Geraldine Allemand resume'
 theme = 'devresume'
 googleAnalytics = 'G-K57TX81Z36'
 
 [params]
-    baseURL = "https://dterranova.fr"
-    author = "david terranova"
+    baseURL = "https://ge-allemand.me"
+    author = "geraldine allemand"
     description = "david terranova resume. hands on engineering manager | software architect with 12+ years of experience handling complex products and teams. 6 years of Go professional experience"
 
     primaryColor = "#61788c"
