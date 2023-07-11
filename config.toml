@@ -121,7 +121,7 @@ googleAnalytics = 'G-K57TX81Z36'
         level = "Native"
         [[params.languages.list]]
         name = "English"
-        level = "Fluent"
+        level = "Advanced - C1"
 
     [params.interests]
         enable = true
@@ -131,15 +131,17 @@ googleAnalytics = 'G-K57TX81Z36'
         [[params.interests.list]]
         name = "Kitesurfing"
         [[params.interests.list]]
-        name = "Photography"
+        name = "Digital culture"
         [[params.interests.list]]
-        name = "Travelling"
+        name = "Yoga / Handpan"
 
     [params.summary]
         enable = true
-        text = """Passionate by tech, hands-on manager with **12+ years of experience** of end-to-end software development and 6 years of Go professional experience.
-        Management experience ranging from hands-on mentoring & direct management of **multiple teams from 6 to 12 engineers** and responsible for all aspects of deliveries, deployments and maintenance of complex software solutions.
-        """
+        text = """**13 years of experience in international advanced communication and digital transformation.**
+- Driving strategy and communication with an agile mindset
+- Crafting communication in brand strategies
+- Organisation and handling in the management of international summits (international cooperation, sustainable development)
+- Bridging mutli-functional roles to secure projects impact.engineers"""
         moto = "Moto: Sometimes failing and always learning."
 
     [params.experience]
