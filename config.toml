@@ -180,20 +180,53 @@ googleAnalytics = 'G-K57TX81Z36'
         details = "Designing and maintaining brand consistency (print, digital) : brochure, social media graphics, event materials, websites, etc."
 
         [[params.experience.list]]
-        title = "Senior Software Engineer - Backend"
-        dates = "2020"
-        company = "Smallpdf"
-        skills = "Golang, AWS, OpenID Connect"
-        location = "Zurich (CH)"
-        details = "Coordinating integrating and extending Keycloak to support our 40M+ monthly unique active users."
+        title = "Co-director in charge of communication and eventsCo-director in charge of communication and events"
+        dates = "2017-2019"
+        company = "CARI NGO"
+        skills = "Communication, high-level events management, Direction, Advocacy, International cooperation"
+        location = "Montpellier (FR)"
+        details = "Co director of CARI NGO - International cooperation / Land degradation. In charge of:**"
         [[params.experience.list.items]]
-        details = "Designing and implementing custom specifications to support product requirements"
+        details = "- Development of strategic directions & projects design in 10 countries in Africa & Middle East."
         [[params.experience.list.items]]
-        details = "Writing extensions and adapters to support existing user management system"
+        details ="- Promotion of civil society input in the political arena managing the full life-cycle of events (United Nations & international summits)"
+        
+        details = "MANAGEMENT"
         [[params.experience.list.items]]
-        details = "Writing custom authorizers to support seamless migration from legacy authentication system to the new one"
+        details = "Advocating strategic directions to the executive council"
         [[params.experience.list.items]]
-        details = "Writing generic middleware to provide authorization to existing backend services"
+        details = "Internal operational management: growth, 1:1, development potentials, team building, feedback, etc."
+        [[params.experience.list.items]]
+        details = "External operational management: planning, KPI check, support and crisis management of highly distributed teams (potential unstructured state)"
+
+        details = "COMMUNICATION & MEDIA RELATION"
+        [[params.experience.list.items]]
+        details = "360º communication campaigns"
+        [[params.experience.list.items]]
+        details = "Digital transformation"
+        [[params.experience.list.items]]
+        details = "Crisis communication"
+        [[params.experience.list.items]]
+        details = "Web marketing strategy & Community management"
+        [[params.experience.list.items]]
+        details = "Implementation of a media relations policy (communication on publications, reports, international events and activities...)"
+        [[params.experience.list.items]]
+        details = "Press impact analysis, press kit writing and press conference organization"
+        [[params.experience.list.items]]
+        details = "Developing high-quality event communication (eg. Save the dates, invitations, booklets, slide decks)"
+
+        details = "EVENTS & ADVOCACY"
+        details = "CARI events are critical platforms to share recommendations from civil society and facilitate dialogue among stakeholders: scientists, policymakers, academics, multilateral organisations, NGOs and others."
+        [[params.experience.list.items]]
+        details = "Group facilitation in a multicultural environment"
+        [[params.experience.list.items]]
+        details = "Links with international and regional organisations"
+        [[params.experience.list.items]]
+        details = "Managing the full life-cycle of high-level and international Summits"
+        [[params.experience.list.items]]
+        details = "Promotion of civil society input in the political arena"
+        [[params.experience.list.items]]
+        details = "Support international networks teams and program managers in the implementation of advocacy actions: defining an influencing strategy, meeting decision-makers, responding to government consultations..."
 
         [[params.experience.list]]
         title = "Chief Technology Officer"
