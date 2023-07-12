@@ -2,7 +2,7 @@ baseURL = 'https://ge-allemand.me'
 languageCode = 'en-us'
 title = 'Geraldine Allemand resume'
 theme = 'devresume'
-googleAnalytics = 'G-K57TX81Z36'
+googleAnalytics = 'G-90QQ9M98J3'
 
 [params]
     baseURL = "https://ge-allemand.me"
