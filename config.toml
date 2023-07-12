@@ -252,7 +252,7 @@ googleAnalytics = 'G-K57TX81Z36'
         company = "Art souterrain"
         skills = "Communication, Media relation, event management, artist support"
         location = "Montreal (CA)"
-        details = "Communication and implementation of cultural projects promoting contemporary art in an urban environment (100.000 visitors per day)."
+        details = "Communication and implementation of cultural projects promoting contemporary art in an urban environment, 100.000 visitors per day"
 
         [[params.experience.list]]
         title = "Communication & project manager"
@@ -300,7 +300,7 @@ googleAnalytics = 'G-K57TX81Z36'
 
         [[params.information.list]]
         title = "Interests"
-        details = "Motorbike racing, Kitesurfing, Yoga / Meditation / Hand pan"
+        details = "Motorbike, Digital culture, Kitesurfing, Yoga / Meditation / Hand pan"
 
     [params.recommendations]
         enable = false
