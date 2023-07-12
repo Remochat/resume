@@ -282,8 +282,8 @@ googleAnalytics = 'G-90QQ9M98J3'
 
         [[params.recommendations.list]]
         title = "Marcos Montoiro"
-        meta = "Marcos was the United State Liaison Officer with the Civil society"
-        details = "Ms. Allemand has shown during all these years an impressive sensibility to portray on her publications, pictures and digital work the testimonies of those working on the ground trying to make a better living from a degraded land. She is a hard worker and very rigorous professional that has shown a strong commitment for the protection of the environment and the achievement of the Sustainable Development Goals. Working with Ms. Geraldine Allemand during all these years has been a great pleasure, she is a great team player and brings original solutions to challenges we faced."
+        meta = "Marcos was the United State Liaison Officer for the Civil society"
+        details = "(...) Ms. Allemand has shown during all these years an impressive sensibility to portray on her publications, pictures and digital work the testimonies of those working on the ground trying to make a better living from a degraded land. She is a hard worker and very rigorous professional that has shown a strong commitment for the protection of the environment and the achievement of the Sustainable Development Goals. Working with Ms. Geraldine Allemand during all these years has been a great pleasure, she is a great team player and brings original solutions to challenges we faced."
 
         
     [params.social]
@@ -291,17 +291,17 @@ googleAnalytics = 'G-90QQ9M98J3'
 
         [[params.social.list]]
         icon = "fa fa-download"
-        url = "/david_terranova_en.pdf"
+        url = "/geraldine_allemand_en.pdf"
         title = "download as pdf"
         [[params.social.list]]
-        icon = "fab fa-github-square"
-        url = "//github.com/davidterranova"
-        title = "davidterranova"
+        icon = "fab fa-dribbble"
+        url = "https://dribbble.com/beyondframes/"
+        title = "beyondframes"
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "//linkedin.com/in/terranovadavid"
-        title = "terranovadavid"
+        url = "//linkedin.com/in/geraldineallemand/"
+        title = "geraldineallemand"
         [[params.social.list]]
-        icon = "fab fa-twitter-square"
-        url = "//twitter.com/terranovadavid"
-        title = "@terranovadavid"
+        icon = "fa fa-plus"
+        url = "https://beyondframes.co/#contact-section"
+        title = "website"
