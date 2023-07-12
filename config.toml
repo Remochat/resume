@@ -182,16 +182,16 @@ googleAnalytics = 'G-K57TX81Z36'
         [[params.experience.list]]
         title = "Co-director in charge of communication and events"
         dates = "2017-2019"
-        company = "CARI NGO"
+        company = "CARI NGO - International cooperation"
         skills = "Direction, Communication, high-level events management, Advocacy"
         location = "Montpellier (FR)"
-        details = "Field of International cooperation / Land degradation. In charge of:"
+        details = "French NGO coordinating 3 international civil society networks in 10 countries (Africa & Middle East) and organizing international environmental summits. I was in charge of:"
         [[params.experience.list.items]]
-        details = "Development of strategic directions & projects design in 10 countries in Africa & Middle East."
+        details = "Development of strategic directions & projects design"
         [[params.experience.list.items]]
         details ="Promotion of civil society input in the political arena managing the full life-cycle of events (United Nations & international summits)"
         
-        details = "MANAGEMENT"
+        text = "MANAGEMENT"
         [[params.experience.list.items]]
         details = "Advocating strategic directions to the executive council"
         [[params.experience.list.items]]
@@ -199,7 +199,7 @@ googleAnalytics = 'G-K57TX81Z36'
         [[params.experience.list.items]]
         details = "External operational management: planning, KPI check, support and crisis management of highly distributed teams (potential unstructured state)"
 
-        details = "COMMUNICATION & MEDIA RELATION"
+        text = "COMMUNICATION & MEDIA RELATION"
         [[params.experience.list.items]]
         details = "360º communication campaigns"
         [[params.experience.list.items]]
@@ -215,7 +215,7 @@ googleAnalytics = 'G-K57TX81Z36'
         [[params.experience.list.items]]
         details = "Developing high-quality event communication (eg. Save the dates, invitations, booklets, slide decks)"
 
-        details = "EVENTS & ADVOCACY"
+        text = "EVENTS & ADVOCACY"
         details = "CARI events are critical platforms to share recommendations from civil society and facilitate dialogue among stakeholders: scientists, policymakers, academics, multilateral organisations, NGOs and others."
         [[params.experience.list.items]]
         details = "Group facilitation in a multicultural environment"
@@ -232,12 +232,11 @@ googleAnalytics = 'G-K57TX81Z36'
         title = "Communication Officer"
         dates = "2013 - 2016"
         company = "CARI NGO"
-        skills = "Front dev, Print, Digital, Communication Strategy"
+        skills = "Front dev, print, digital, communication Strategy"
         location = "Montpellier (FR)"
         details = "Create and implement organizational digital communication plans that align with the NGO’s missions and brand:"
-        <!-- Drive the roadmap, communication strategy and key milestones of 4 civil society networks in 10 countries in Africa & Middle East."-->
         [[params.experience.list]]
-        details = "to complete"
+        details = "Managing international media relation strategy and execution"
         [[params.experience.list]]
         details = "As Communication strategic focal point for 3 civil society networks in Sahelian and Maghreb region, I created communication tools to assist dialogue between actors involved in drylands."
         moto = "Major activities:"
@@ -246,52 +245,38 @@ googleAnalytics = 'G-K57TX81Z36'
         [[params.experience.list.items]]
         details = "Editorial lead: 9 websites, 5 newsletters, +10 000 followers, dozen of print supports (eg. user guides, magazines...)"
          
-        title = "Engineering Manager - DevOps"
-        dates = "2015 - 2017"
-        company = "TellMePlus"
-        skills = "Golang, Python, Terraform"
-        location = "Montpellier (FR)"
-        details = "Manage transversal team supporting Predictive Objects in multi cloud environments. Promoted development good practices such as testing, continuous deployment, communication, security guidelines and tooling to the engineering teams."
 
         [[params.experience.list]]
-        title = "CTO / Co-Founder"
-        dates = "2014 - 2015"
-        company = "Arksens cyber security"
-        skills = "Ruby on rails, Proxmox, Debian, Ansible"
-        location = "Mauritius"
-        details = "Arksens Cyber Security is a digital security vendor for small & medium sized companies. It provides & customizes a set of open source tools and services to help companies autonomously reducing cyber threats by themselves at a controlled cost."
-
-        [[params.experience.list]]
-        title = "Software Engineer - Backend"
-        dates = "2013 - 2014"
-        company = "TellMePlus"
-        skills = "Java, MongoDB"
-        location = "Montpellier (FR)"
-        details = "Shopping Intelligence, Recommandation over Big-Data using NoSQL & CHOCO library to produce fined grained recommandation."
-
-        [[params.experience.list]]
-        title = "Research Engineer"
+        title = "Communication & Side event manager"
         dates = "2013"
-        company = "LIRMM - Montpellier Laboratory of Computer Science, Robotics, and Microelectronics"
-        skills = "Java, Choco"
-        location = "Montpellier (FR)"
-        details = "Constraint Programming. Demonstrate constraint programming capabilities on concrete business cases."
+        company = "Art souterrain"
+        skills = "Communication, Media relation, event management, artist support"
+        location = "Montreal (CA)"
+        details = "Communication and implementation of cultural projects promoting contemporary art in an urban environment (100.000 visitors per day)."
 
         [[params.experience.list]]
-        title = "Software Engineer"
-        dates = "2011 - 2013"
-        company = "Sanofi"
-        skills = "Objective-C, SQLite"
+        title = "Communication & project manager"
+        dates = "2010-2012"
+        company = "Baccarat"
+        skills = "Communication, event management, territorial development"
+        location = "Baccarat (FR)"
+        details = "Key player in the creation of a territorial project of 2 million euros based on two brownfields of Baccarat SA including : a 200m2 international exhibition gallery, an artists’ incubator, a training center, and an R&D center"
+
+        [[params.experience.list]]
+        title = "Projet manager"
+        dates = "2009"
+        company = "Université de Montpellier"
+        skills = "Communication, Design, architecture, analysis"
         location = "Montpellier (FR)"
-        details = "Created a sqlite based framework for mobile applications designed to compound with security guidelines of clinical studies." 
+        details = "Carrying out an accessibility and signage diagnosis to improve the integration of the diversity of users in complex environment." 
 
     [params.projects]
         enable = true
 
         [[params.projects.list]]
-        title = "Artistic Pictures"
-        meta = "Photography, Software Development"
-        tagline = "Capturing the perfect moment, artistic vision in mind"
+        title = "Action Sport"
+        meta = "Kitesurf, Wakeboard"
+        tagline = "FISE World Montpellier / Action sport festival - As a volunteer, I supported the technical team (video & photo), the Street art scene with live performances and also the *village* team."
 
         [[params.projects.list]]
         title = "Construction Coordinator / builder"
@@ -315,10 +300,10 @@ googleAnalytics = 'G-K57TX81Z36'
 
         [[params.information.list]]
         title = "Interests"
-        details = "Motorbike racing, Kitesurfing, Photography, Travelling"
+        details = "Motorbike racing, Kitesurfing, Yoga / Meditation / Hand pan"
 
     [params.recommendations]
-        enable = true
+        enable = false
 
         # [[params.information.list]]
         # title = ""
