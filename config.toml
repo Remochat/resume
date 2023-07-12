@@ -271,7 +271,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         details = "Motorbike, Digital culture, Kitesurfing, Yoga / Meditation / Hand pan"
 
     [params.recommendations]
-        enable = false
+        enable = true
 
         # [[params.information.list]]
         # title = ""
@@ -281,17 +281,11 @@ googleAnalytics = 'G-90QQ9M98J3'
         # details = ""
 
         [[params.recommendations.list]]
-        title = "Mike Pilawski"
-        meta = "Mike was David's mentor"
-        details = """David is a great technology leader and an engineering manager. He is a strong architect capable of thinking through complex architectural choices and arriving at simple and reliable solutions. He can take large, complex projects, identify key risks and direct the team through milestones to completion. He is also a great manager who deeply cares for his team and invests time to help his team members grow.
+        title = "Marcos Montoiro"
+        meta = "Marcos was the United State Liaison Officer with the Civil society"
+        details = "Ms. Allemand has shown during all these years an impressive sensibility to portray on her publications, pictures and digital work the testimonies of those working on the ground trying to make a better living from a degraded land. She is a hard worker and very rigorous professional that has shown a strong commitment for the protection of the environment and the achievement of the Sustainable Development Goals. Working with Ms. Geraldine Allemand during all these years has been a great pleasure, she is a great team player and brings original solutions to challenges we faced."
+
         
-It was a real privilege working with David and I hope I will have the opportunity to do it again."""
-
-        [[params.recommendations.list]]
-        title = "Jakub Skoczeń"
-        meta = "Jakub reported directly to David"
-        details = "David is an exceptional hands-on manager with extensive technical knowledge and a pragmatic approach to problem-solving. He has a talent for building efficient and successful teams full of trust, and his collaborative leadership style inspires great results. I highly recommend him as a skilled and knowledgeable leader."
-
     [params.social]
         enable = true
 
