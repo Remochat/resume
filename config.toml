@@ -204,9 +204,9 @@ googleAnalytics = 'G-90QQ9M98J3'
         skills = "Communication, media relation, SEO, project management"
         location = "Montpellier (FR)"
         details = "As Communication strategic focal point for 3 civil society networks in Sahelian and Maghreb region, I created communication tools to assist dialogue between actors involved in drylands."
-        [[params.experience.list]]
+        [[params.experience.list.items]]
         details = "Managing international media relation strategy and execution"
-        [[params.experience.list]]
+        [[params.experience.list.items]]
         details = "Create and implement organizational digital communication plans that align with the NGO’s missions and brand"
         [[params.experience.list.items]]
         details = "Creation of the communication unit & new processes"
@@ -242,9 +242,9 @@ googleAnalytics = 'G-90QQ9M98J3'
         enable = true
 
         [[params.projects.list]]
-        title = "Action Sport"
-        meta = "Kitesurf, Wakeboard"
-        tagline = "FISE World Montpellier / Action sport festival - As a volunteer, I supported the technical team (video & photo), the Street art scene with live performances and also the *village* team."
+        title = "Action Sport, volunteering"
+        meta = "Kitesurf - Wakeboard"
+        tagline = "FISE World Montpellier / Action sport festival"
 
         [[params.projects.list]]
         title = "Construction Coordinator / builder"
