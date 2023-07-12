@@ -294,14 +294,14 @@ googleAnalytics = 'G-90QQ9M98J3'
         url = "/geraldine_allemand_en.pdf"
         title = "download as pdf"
         [[params.social.list]]
-        icon = "fab fa-dribbble"
-        url = "https://dribbble.com/beyondframes/"
-        title = "beyondframes"
-        [[params.social.list]]
         icon = "fab fa-linkedin"
         url = "//linkedin.com/in/geraldineallemand/"
         title = "geraldineallemand"
         [[params.social.list]]
-        icon = "fa fa-plus"
+        icon = "fa fa-globe"
         url = "https://beyondframes.co/#contact-section"
         title = "website"
+        [[params.social.list]]
+        icon = "fab fa-dribbble"
+        url = "https://dribbble.com/beyondframes/"
+        title = "beyondframes"
