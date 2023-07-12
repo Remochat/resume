@@ -180,16 +180,16 @@ googleAnalytics = 'G-K57TX81Z36'
         details = "Designing and maintaining brand consistency (print, digital) : brochure, social media graphics, event materials, websites, etc."
 
         [[params.experience.list]]
-        title = "Co-director in charge of communication and eventsCo-director in charge of communication and events"
+        title = "Co-director in charge of communication and events"
         dates = "2017-2019"
         company = "CARI NGO"
-        skills = "Communication, high-level events management, Direction, Advocacy, International cooperation"
+        skills = "Direction, Communication, high-level events management, Advocacy"
         location = "Montpellier (FR)"
-        details = "Co director of CARI NGO - International cooperation / Land degradation. In charge of:**"
+        details = "Field of International cooperation / Land degradation. In charge of:"
         [[params.experience.list.items]]
-        details = "- Development of strategic directions & projects design in 10 countries in Africa & Middle East."
+        details = "Development of strategic directions & projects design in 10 countries in Africa & Middle East."
         [[params.experience.list.items]]
-        details ="- Promotion of civil society input in the political arena managing the full life-cycle of events (United Nations & international summits)"
+        details ="Promotion of civil society input in the political arena managing the full life-cycle of events (United Nations & international summits)"
         
         details = "MANAGEMENT"
         [[params.experience.list.items]]
@@ -235,13 +235,16 @@ googleAnalytics = 'G-K57TX81Z36'
         skills = "Front dev, Print, Digital, Communication Strategy"
         location = "Montpellier (FR)"
         details = "Create and implement organizational digital communication plans that align with the NGO’s missions and brand:"
-        [//]: <> Drive the roadmap, communication strategy and key milestones of 4 civil society networks in 10 countries in Africa & Middle East."<>
+        <!-- Drive the roadmap, communication strategy and key milestones of 4 civil society networks in 10 countries in Africa & Middle East."-->
         [[params.experience.list]]
-        details = 
+        details = "to complete"
         [[params.experience.list]]
         details = "As Communication strategic focal point for 3 civil society networks in Sahelian and Maghreb region, I created communication tools to assist dialogue between actors involved in drylands."
-      
-
+        moto = "Major activities:"
+        [[params.experience.list.items]]
+        details = "Creation of the communication unit & processes"
+        [[params.experience.list.items]]
+        details = "Editorial lead: 9 websites, 5 newsletters, +10 000 followers, dozen of print supports (eg. user guides, magazines...)"
          
         title = "Engineering Manager - DevOps"
         dates = "2015 - 2017"
