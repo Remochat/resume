@@ -172,6 +172,7 @@ googleAnalytics = 'G-K57TX81Z36'
         company = "Beyondframes"
         skills = "Communication, Strategy, Design"
         location = "Zurich (CH)"
+        details = "Beyond frames offers complete personalized services to entrepreneurs, with deep expertise in communication, brand strategy, design and digital"
         [[params.experience.list.items]]
         details = "Helping S&M businesses build and monitor their strategy"
         [[params.experience.list.items]]
@@ -216,6 +217,7 @@ googleAnalytics = 'G-K57TX81Z36'
         details = "Developing high-quality event communication (eg. Save the dates, invitations, booklets, slide decks)"
 
         text = "EVENTS & ADVOCACY"
+        [[params.experience.list.items]]
         details = "CARI events are critical platforms to share recommendations from civil society and facilitate dialogue among stakeholders: scientists, policymakers, academics, multilateral organisations, NGOs and others."
         [[params.experience.list.items]]
         details = "Group facilitation in a multicultural environment"
