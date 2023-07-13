@@ -152,7 +152,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Digital project coordinator"
         dates = "2022 - Present"
         company = "CGI"
-        skills = "Agile, Business process, Automation, Digital transformation"
+        skills = "Digital transformation, Business process, Automation"
         location = "Montpellier (FR)"
         details = "Within the CGI Digital Innovation Center, supporting the digital transformation of companies by modeling, optimizing and automating internal processes."
         [[params.experience.list.items]]
