@@ -151,7 +151,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.experience.list]]
         title = "Digital project coordinator"
         dates = "2022 - Present"
-        company = "CGI"
+        company = "CGI - France"
         skills = "Digital transformation, Business process, Automation"
         location = "Montpellier (FR)"
         details = "Within the CGI Digital Innovation Center, supporting the digital transformation of companies by modeling, optimizing and automating internal processes."
@@ -169,7 +169,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.experience.list]]
         title = "Contractor - Communication & Design"
         dates = "2021 - 2022"
-        company = "Beyondframes"
+        company = "Beyondframes - Switzerland"
         skills = "Communication, Strategy, Print & digital design"
         location = "Zurich (CH)"
         details = "Beyond frames offers complete personalized services to entrepreneurs, with deep expertise in communication, brand strategy, design and digital."
@@ -200,8 +200,8 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.experience.list]]
         title = "Communication officer"
         dates = "2013 - 2016"
-        company = "CARI NGO"
-        skills = "Communication, media relation, SEO, project management"
+        company = "CARI NGO - International cooperation"
+        skills = "Communication, media relation, project management"
         location = "Montpellier (FR)"
         details = "As Communication strategic focal point for 3 civil society networks in Sahelian and Maghreb region, I created communication tools to assist dialogue between actors involved in drylands."
         [[params.experience.list.items]]
@@ -217,15 +217,15 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.experience.list]]
         title = "Communication & Side event manager"
         dates = "2013"
-        company = "Art souterrain"
-        skills = "Communication, Media relation, event management, artist support"
+        company = "Art souterrain - Canada"
+        skills = "Communication, media relation, event management, artist support"
         location = "Montreal (CA)"
         details = "Communication and implementation of cultural projects promoting contemporary art in an urban environment, 100.000 visitors per day"
 
         [[params.experience.list]]
         title = "Communication & project manager"
         dates = "2010-2012"
-        company = "Baccarat"
+        company = "Baccarat - France"
         skills = "Communication, event management, territorial development"
         location = "Baccarat (FR)"
         details = "Key player in the creation of a territorial project of 2 million euros based on two brownfields of Baccarat SA including : a 200m2 international exhibition gallery, an artists’ incubator, a training center, and an R&D center"
@@ -233,7 +233,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.experience.list]]
         title = "Projet manager"
         dates = "2009"
-        company = "Université de Montpellier"
+        company = "Université de Montpellier - France"
         skills = "Communication, Design, architecture, analysis"
         location = "Montpellier (FR)"
         details = "Carrying out an accessibility and signage diagnosis to improve the integration of the diversity of users in complex environment." 
