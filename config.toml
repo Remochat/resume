@@ -7,7 +7,7 @@ googleAnalytics = 'G-90QQ9M98J3'
 [params]
     baseURL = "https://ge-allemand.me"
     author = "geraldine allemand"
-    description = "geraldine allemand resume. Strategic communicator / Project and event hands'on manager | communication director with 13+ years of experience handling complex projects and teams."
+    description = "geraldine allemand resume. Communication expert / Strategic communicator / Project and event hands'on manager | communication director with 14+ years of experience handling complex projects, environment, and teams."
 
     primaryColor = "#61788c"
     textPrimaryColor = "#292929"
@@ -138,7 +138,7 @@ googleAnalytics = 'G-90QQ9M98J3'
 
     [params.summary]
         enable = true
-        text = """**13 years of experience in international advanced communication and digital transformation.**
+        text = """**13 years of experience in international advanced communication and digital transformation in Europe, North America, West Africa, and Middle East.**
 - Driving strategy and communication with an agile mindset
 - Crafting communication in brand strategies
 - Organisation and handling in the management of international summits (international cooperation, sustainable development)
@@ -151,10 +151,10 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.experience.list]]
         title = "COP28 - Civil Society Liaison Officer"
         dates = "October 2022 - Present"
-        company = "Expo City Dubai - UAE government"
+        company = "Expo City Dubai - UAE"
         skills = "International cooperation, High-level event management, Communication"
         location = "Dubaï (UAE)"
-        details = "As COP28 Liaison Officer, I initialized for the very first time in the UAE History, a dynamic-event space to let civil society expresses its will and recommendations: the Voice for Action zone."
+        details = "Initializing for the very first time in the UAE History, a dynamic-event space to let civil society expresses its will and recommendations: the Voice for Action zone."
         [[params.experience.list.items]]
         details = "Designing and planning the Voice for Action zone, and ensuring its seamless integration into all aspects of operational planning"
         [[params.experience.list.items]]
@@ -162,7 +162,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.experience.list.items]]
         details = "Handling sensitive topics such as security issues"
         [[params.experience.list.items]]
-        details = "Developing and executing a comprehensive strategy to ensure activists, volunteers and climate focussed partner organisations are accounted for in the planning of COP28 - Voice for Action zone"
+        details = "Developing and executing a comprehensive strategy to ensure activists, volunteers and climate focussed partner organisations are accounted for in the Voice for Action planning"
         [[params.experience.list.items]]
         details = "Cultivating and strenghtening relationships with key stakeholders, including civil society organisations, indigenous groups, youth activists, and other influential voices."
         [[params.experience.list.items]]
@@ -205,7 +205,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Co-director in charge of communication and events"
         dates = "2017-2019"
         company = "CARI NGO - International cooperation"
-        skills = "Management, Communication, High-level events management, Advocacy"
+        skills = "International development, Management, Communication, High-level event management, Advocacy"
         location = "Montpellier (FR)"
         details = "French NGO coordinating 3 international civil society networks in 10 countries (Africa & Middle East) and organizing international environmental summits. As Co-director, I was in charge of:"
         [[params.experience.list.items]]
@@ -222,7 +222,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Communication officer"
         dates = "2013 - 2016"
         company = "CARI NGO - International cooperation"
-        skills = "Communication, media relation, project management"
+        skills = "International development, Communication, Media relation, Project management"
         location = "Montpellier (FR)"
         details = "As Communication strategic focal point for 3 civil society networks in Sahelian and Maghreb region, I created communication tools to assist dialogue between actors involved in drylands."
         [[params.experience.list.items]]
