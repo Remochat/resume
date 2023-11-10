@@ -325,7 +325,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "geraldineallemand"
         [[params.social.list]]
         icon = "fa fa-globe"
-        url = "https://beyondframes.co/#contact-section"
+        url = "https://beyondframes.co"
         title = "website"
         # [[params.social.list]]
         # icon = "fab fa-dribbble"
