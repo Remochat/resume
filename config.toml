@@ -150,9 +150,9 @@ googleAnalytics = 'G-90QQ9M98J3'
 
         [[params.experience.list]]
         title = "COP28 - Civil Society Liaison Officer"
-        dates = "October 2022 - Present"
+        dates = "October 2023 - Present"
         company = "Expo City Dubai - UAE"
-        skills = "International cooperation, High-level event management, Communication"
+        skills = "High-level event management, Communication, International development"
         location = "Dubaï (UAE)"
         details = "Initializing for the very first time in the UAE History, a dynamic-event space to let civil society expresses its will and recommendations: the Voice for Action zone."
         [[params.experience.list.items]]
