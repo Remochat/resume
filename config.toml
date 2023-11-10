@@ -309,7 +309,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.recommendations.list]]
         title = "Bianca Auclair"
         meta = "Director Business Consulting / CGI Montreal"
-        details = ""Working with Géraldine was both a great joy and the discovery of a brilliant woman. Her professionalism and ability to create connections are undeniable. The human approach and expertise she brought to the project were of high quality. I hope to work with you again.""
+        details = "\"Working with Géraldine was both a great joy and the discovery of a brilliant woman. Her professionalism and ability to create connections are undeniable. The human approach and expertise she brought to the project were of high quality. I hope to work with you again."\"
 
         
     [params.social]
