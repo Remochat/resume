@@ -154,9 +154,9 @@ googleAnalytics = 'G-90QQ9M98J3'
         company = "Expo City Dubai - UAE"
         skills = "High-level event management, Communication, International development"
         location = "Dubaï (UAE)"
-        details = "Initializing for the very first time in the UAE History, a dynamic-event space to let civil society expresses its will and recommendations: the Voice for Action zone."
+        details = "Initializing for the very first time in the UAE history, a dynamic-event space to let civil society expresses its will and recommendations: the Voice for Action zone."
         [[params.experience.list.items]]
-        details = "Designing and planning the Voice for Action zone, and ensuring its seamless integration into all aspects of operational planning"
+        details = "Designing and planning the Voice for Action zone, ensuring its seamless integration into all aspects of operational planning"
         [[params.experience.list.items]]
         details = "Leading the effective communication between civil society and the host country, engaging with a wide array of stakeholders"
         [[params.experience.list.items]]
@@ -183,7 +183,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.experience.list.items]]
         details = "Structuring the pre-sales automation offer"
         [[params.experience.list.items]]
-        details = "Organizing consultants unit to share knowledge and experiences, increasing approach consistency and deliveries"
+        details = "Organizing consultant unit to share knowledge and experiences, increasing approach consistency and deliveries"
         [[params.experience.list.items]]
         details = "Developing a corporate social responsibility (CSR) offer to train teams to the sustainable IT"
 
@@ -303,13 +303,13 @@ googleAnalytics = 'G-90QQ9M98J3'
 
         [[params.recommendations.list]]
         title = "Marcos Montoiro"
-        meta = "Marcos is the External Relations Officer at United Nations Convention to Combat Desertification, former Civil Society Liaison Officer"
+        meta = "External Relations Officer at United Nations Convention to Combat Desertification"
         details = "(...) Ms. Allemand has shown during all these years an impressive sensibility to portray on her publications, pictures and digital work the testimonies of those working on the ground trying to make a better living from a degraded land. She is a hard worker and very rigorous professional that has shown a strong commitment for the protection of the environment and the achievement of the Sustainable Development Goals. Working with Ms. Geraldine Allemand during all these years has been a great pleasure, she is a great team player and brings original solutions to challenges we faced."
         
         [[params.recommendations.list]]
         title = "Bianca Auclair"
-        meta = "Bianca is Director Business Consulting / CGI Montreal"
-        details = "Working with Géraldine was both a great joy and the discovery of a brilliant woman. Her professionalism and ability to create connections are undeniable. The human approach and expertise she brought to the project were of high quality. I hope to work with you again."
+        meta = "Director Business Consulting / CGI Montreal"
+        details = ""Working with Géraldine was both a great joy and the discovery of a brilliant woman. Her professionalism and ability to create connections are undeniable. The human approach and expertise she brought to the project were of high quality. I hope to work with you again.""
 
         
     [params.social]
