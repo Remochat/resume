@@ -149,8 +149,29 @@ googleAnalytics = 'G-90QQ9M98J3'
         enable = true
 
         [[params.experience.list]]
+        title = "COP28 - Civil Society Liaison Officer"
+        dates = "October 2022 - Present"
+        company = "Expo City Dubai - UAE government"
+        skills = "International cooperation, High-level event management, Communication"
+        location = "Dubaï (UAE)"
+        details = "As COP28 Liaison Officer, I initialized for the very first time in the UAE History, a dynamic-event space to let civil society expresses its will and recommendations: the Voice for Action zone."
+        [[params.experience.list.items]]
+        details = "Designing and planning the Voice for Action zone, and ensuring its seamless integration into all aspects of operational planning"
+        [[params.experience.list.items]]
+        details = "Leading the effective communication between civil society and the host country, engaging with a wide array of stakeholders"
+        [[params.experience.list.items]]
+        details = "Handling sensitive topics such as security issues"
+        [[params.experience.list.items]]
+        details = "Developing and executing a comprehensive strategy to ensure activists, volunteers and climate focussed partner organisations are accounted for in the planning of COP28 - Voice for Action zone"
+        [[params.experience.list.items]]
+        details = "Cultivating and strenghtening relationships with key stakeholders, including civil society organisations, indigenous groups, youth activists, and other influential voices."
+        [[params.experience.list.items]]
+        details = "Contributing to post-event reports and recommendations for enhancing future engagements"
+       
+
+        [[params.experience.list]]
         title = "Digital project coordinator"
-        dates = "2022 - Present"
+        dates = "2022 - Sept. 2023"
         company = "CGI - France"
         skills = "Digital transformation, Business process, Automation"
         location = "Montpellier (FR)"
