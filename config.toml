@@ -58,17 +58,15 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.skills.list.items]]
         details = "Adobe Creative Suite"
         [[params.skills.list.items]]
-        details = "SEO / SEA , Google Ads"
+        details = "SEO / SEA, Google Ads"
         [[params.skills.list.items]]
         details = "Html, CSS, JS"
         [[params.skills.list.items]]
-        details = "CMS (Drupal, Wordpress, EZ)"
+        details = "CMS (Drupal, Wordpress)"
         [[params.skills.list.items]]
         details = "Git, GitHub"
         [[params.skills.list.items]]
-        details = "Jira"
-        [[params.skills.list.items]]
-        details = "Figma, Miro, Mural"
+        details = "Figma, Miro"
         [[params.skills.list.items]]
         details = "MacOS, Windows & Linux"
 
@@ -199,7 +197,9 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.experience.list.items]]
         details = "Communication consulting to strengthen the information exchange process between projects stakeholders"
         [[params.experience.list.items]]
-        details = "Designing and maintaining brand consistency : brochure, social media graphics, event materials, websites, etc."
+        details = "Crafting user experience from the idea to the front-end development: UI/UX, accessibility, sustainable IT"
+        [[params.experience.list.items]]
+        details = "Designing and maintaining brand consistency: brochure, social media graphics, event materials, websites, etc."
 
         [[params.experience.list]]
         title = "Co-director in charge of communication and events"
