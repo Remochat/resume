@@ -139,10 +139,10 @@ googleAnalytics = 'G-90QQ9M98J3'
     [params.summary]
         enable = true
         text = """**13 years of experience in international advanced communication and digital transformation in Europe, North America, West Africa, and Middle East.**
-- Driving strategy and communication with an agile mindset
-- Crafting communication in brand strategies
-- Organisation and handling in the management of international summits (international cooperation, sustainable development)
-- Bridging mutli-functional roles to secure projects impact"""
+- Driving strategy and communication with an agile mindset in complex projects, environment, and teams
+- Organization and handling in the management of international summits (international cooperation, sustainable development)
+- Bridging mutli-functional roles to secure projects impact
+- Crafting communication in brand strategies"""
         moto = "Moto: Simplicity is essential. Keep it is an art."
 
     [params.experience]
@@ -150,21 +150,21 @@ googleAnalytics = 'G-90QQ9M98J3'
 
         [[params.experience.list]]
         title = "COP28 - Civil Society Liaison Officer"
-        dates = "October 2023 - Present"
-        company = "Expo City Dubai - UAE"
+        dates = "October - Dec. 2023"
+        company = "Expo City Dubai - United Arab Emirates"
         skills = "High-level event management, Communication, International development"
         location = "Dubaï (UAE)"
-        details = "Initializing for the very first time in the UAE history, a dynamic-event space to let civil society expresses its will and recommendations: the Voice for Action zone."
+        details = "Initializing for the very first time in the UAE history, a dynamic-event space to let civil society expresses its will and recommendations: the Voice for Action hub."
         [[params.experience.list.items]]
-        details = "Designing and planning the Voice for Action zone, ensuring its seamless integration into all aspects of operational planning"
+        details = "Designing and planning the Voice for Action hub, ensuring its seamless integration into all aspects of operational planning"
         [[params.experience.list.items]]
-        details = "Leading the effective communication between civil society and the host country, engaging with a wide array of stakeholders"
+        details = "Leading the effective communication between the Civil society and the Host country, engaging with a wide array of stakeholders"
         [[params.experience.list.items]]
         details = "Handling sensitive topics such as security issues"
         [[params.experience.list.items]]
-        details = "Developing and executing a comprehensive strategy to ensure activists, volunteers and climate focussed partner organisations are accounted for in the Voice for Action planning"
+        details = "Developing and executing a comprehensive strategy to ensure activists, volunteers and climate focussed partner organizations are accounted for in the Voice for Action planning"
         [[params.experience.list.items]]
-        details = "Cultivating and strenghtening relationships with key stakeholders, including civil society organisations, indigenous groups, youth activists, and other influential voices."
+        details = "Cultivating and strenghtening relationships with key stakeholders, including Civil society organizations, indigenous groups, youth activists, and other influential voices."
         [[params.experience.list.items]]
         details = "Contributing to post-event reports and recommendations for enhancing future engagements"
        
