@@ -72,6 +72,8 @@ googleAnalytics = 'G-90QQ9M98J3'
 
         [[params.skills.list]]
         title = "Soft"
+        [params.skills.list.items]]
+        details = "High sense of interculturality"
         [[params.skills.list.items]]
         details = "Impact driven"
         [[params.skills.list.items]]
