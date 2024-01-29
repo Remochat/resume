@@ -123,6 +123,9 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.languages.list]]
         name = "English"
         level = "Advanced - C1"
+        [[params.languages.list]]
+        name = "Spanish"
+        level = "Independent user level"
 
     [params.interests]
         enable = true
