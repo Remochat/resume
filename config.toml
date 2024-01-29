@@ -263,19 +263,19 @@ googleAnalytics = 'G-90QQ9M98J3'
         enable = true
 
         [[params.projects.list]]
-        title = "Action Sport, volunteering"
+        title = "Kitesurf - Wakeboard / Action Sport, volunteering"
         meta = "Kitesurf - Wakeboard"
-        tagline = "FISE World Montpellier / Action sport festival"
+        tagline = "FISE World Montpellier / Action sport festival, 2019"
 
         [[params.projects.list]]
-        title = "Construction Coordinator / builder"
+        title = "Construction Coordinator, builder"
         meta = "Construction"
-        tagline = "Design, creation, and construction of my personal house"
+        tagline = "Design, creation, and construction of my personal house, 2019-2020"
 
         [[params.projects.list]]
-        title = "Le Sonambule, volunteering"
+        title = "Arts - Music / Le Sonambule, volunteering"
         meta = "Arts - Music"
-        tagline = "Contributing to make the organisation to offer concerts at a fair price"
+        tagline = "Contributing to make the organisation to offer concerts at a fair price, 2016-2017"
 
     [params.information]
         enable = false
