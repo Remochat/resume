@@ -41,7 +41,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.skills.list]]
         title = "Professional"
         [[params.skills.list.items]]
-        details = "Communication & design"
+        details = "Communication & Design"
         [[params.skills.list.items]]
         details = "Digital transformation"
         [[params.skills.list.items]]
@@ -131,7 +131,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         enable = true
 
         [[params.awards.list]]
-        name = "Swiss Design Contest - #1 Winner"
+        name = "Swiss Design Contest - Winner"
         body = "Creation of an entire brand design & communication strategy."
         date = "2021"
         [[params.awards.list]]
@@ -210,7 +210,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.experience.list]]
         title = "Contractor - Communication & Design"
         dates = "2021 - 2022"
-        company = "Beyondframes - Switzerland"
+        company = "Beyondframes. - Switzerland"
         skills = "Communication, Strategy, Print & digital design"
         location = "Zurich (CH)"
         details = "Beyond frames offers complete personalized services to entrepreneurs, with deep expertise in communication, brand strategy, design and digital."
@@ -237,7 +237,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.experience.list.items]]
         details = "Internal operational management: growth, 1:1, team building, feedback, etc."
         [[params.experience.list.items]]
-        details = "360º communication campaigns and crisis communication"
+        details = "360º communication campaigns and crisis communication."
         
 
         [[params.experience.list]]
@@ -254,7 +254,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.experience.list.items]]
         details = "Creation of the communication unit & new processes : objectives, monitoring, communication security policy, etc."
         [[params.experience.list.items]]
-        details = "Editorial lead: 9 websites, 5 newsletters, +10 000 followers, dozen of print supports (eg. user guides, magazines...)"
+        details = "Editorial lead: 9 websites, 5 newsletters, +10 000 followers, dozen of print supports (eg. user guides, magazines...)."
          
 
         [[params.experience.list]]
@@ -263,7 +263,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         company = "Art souterrain - Canada"
         skills = "Communication, media relation, event management, artist support"
         location = "Montreal (CA)"
-        details = "Communication and implementation of cultural projects promoting contemporary art in an urban environment, 100.000 visitors per day"
+        details = "Communication and implementation of cultural projects promoting contemporary art in an urban environment, 100.000 visitors per day."
 
         [[params.experience.list]]
         title = "Communication & project manager"
@@ -271,7 +271,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         company = "Baccarat - France"
         skills = "Communication, event management, territorial development"
         location = "Baccarat (FR)"
-        details = "Key player in the creation of a territorial project of 2 million euros based on two brownfields of Baccarat SA including : a 200m2 international exhibition gallery, an artists’ incubator, a training center, and an R&D center"
+        details = "Key player in the creation of a territorial project of 2 million euros based on two brownfields of Baccarat SA including : a 200m2 international exhibition gallery, an artists’ incubator, a training center, and an R&D center."
 
         [[params.experience.list]]
         title = "Projet manager"
@@ -300,7 +300,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         tagline = "Contributing to make the organisation to offer concerts at a fair price, 2016-2017"
 
     [params.information]
-        enable = false
+        enable = true
 
         # [[params.information.list]]
         # title = ""
