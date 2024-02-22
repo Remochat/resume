@@ -307,13 +307,10 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Awards"
         
         [[params.information.list.items]]
-        title = "Creation of an entire."
-        details = "2021 / Swiss Design Contest - Winner"
-        date = "Creation of an entire brand design & communication strategy."
-
+        details = "2021 / Swiss Design Contest - Winner / Creation of an entire brand design & communication strategy."
         
         [[params.information.list.items]]
-        title = "2009 / Prize-winning team following a call for proposals Marseille - Provence 2013 : European Capitals of Culture"
+        details = "2009 / Prize-winning team following a call for proposals Marseille - Provence 2013 : European Capitals of Culture"
         details = "In collaboration with the MuCEM Museum : Proposal of mechanisms for promoting collections and integrating the structure from the local to the Euro-Mediterranean vision, Creation of a new scenography and spatial design, and mediation process."
  
 
