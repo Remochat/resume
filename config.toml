@@ -309,7 +309,11 @@ googleAnalytics = 'G-90QQ9M98J3'
         # [[params.information.list.items]]
         # details = ""
 
-        [[params.Award.list]]
+        [[params.information.list]]
+        # title = "Awards"
+        # details = "2021 / Swiss Design Contest - Winner"
+        # details = "Creation of an entire brand design & communication strategy."
+        
         title = "Awards"
         details = "2021 / Swiss Design Contest - Winner"
         details = "Creation of an entire brand design & communication strategy."
