@@ -109,7 +109,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         name = "MuCEM"
         body = "blablabla"
         date = "2009"
-        # [[params.awards.list]]
+        [[params.awards.list]]
         name = "Swiss Design Contest - #1 Winner"
         body = "Creation to a brand design & strategy."
         date = "2009"
