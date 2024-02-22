@@ -128,7 +128,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         name = "Yoga / Handpan"
 
     [params.awards]
-        enable = true
+        enable = false
 
         [[params.awards.list]]
         name = "Swiss Design Contest - Winner"
@@ -310,8 +310,15 @@ googleAnalytics = 'G-90QQ9M98J3'
         # details = ""
 
         [[params.information.list]]
-        title = "Interests"
+        title = "Awards"
         details = "Motorbike, Digital culture, Kitesurfing, Yoga / Meditation / Hand pan"
+        name = "Swiss Design Contest - Winner"
+        body = "Creation of an entire brand design & communication strategy."
+        date = "2021"
+        [[params.information.list]]
+        name = "Prize-winning team following a call for proposals Marseille - Provence 2013 : European Capitals of Culture"
+        body = "In collaboration with the MuCEM Museum : Proposal of mechanisms for promoting collections and integrating the structure from the local to the Euro-Mediterranean vision, Creation of a new scenography and spatial design, and mediation process."
+        date = "2009"
 
     [params.recommendations]
         enable = true
