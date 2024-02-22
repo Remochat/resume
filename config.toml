@@ -7,7 +7,7 @@ googleAnalytics = 'G-90QQ9M98J3'
 [params]
     baseURL = "https://ge-allemand.me"
     author = "geraldine allemand"
-    description = "geraldine allemand resume. Communication expert / Strategic communicator / Project and event hands'on manager | communication director with 14+ years of experience handling complex projects, environment, and teams."
+    description = "geraldine allemand resume. Communication expert / Climate Action, Digital & Strategy / Project and event hands'on manager | Communication director with 14+ years of experience handling complex projects, environment, and teams."
 
     primaryColor = "#61788c"
     textPrimaryColor = "#292929"
@@ -15,7 +15,7 @@ googleAnalytics = 'G-90QQ9M98J3'
     [params.profile]
         enable = true
         name = "Geraldine Allemand"
-        tagline = "Strategic communicator | Project and event hands'on manager"
+        tagline = "Strategic communicator | Climate Action & Digital"
         avatar = "Photo-ID-pro.jpeg"
 
     [params.contact]
