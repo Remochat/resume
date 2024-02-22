@@ -152,8 +152,25 @@ googleAnalytics = 'G-90QQ9M98J3'
         enable = true
 
         [[params.experience.list]]
+        title = "Process & Digital Transformation Consultant"
+        dates = "Feb. - Present Day"
+        company = "CGI - France"
+        skills = "Digital transformation, Change Management, Sustainable Digitalization"
+        location = "Montpellier (FR)"
+        details = "My role is both strategic and hands-on, requiring a mix of leadership, technical expertise, and business acumen."
+        [[params.experience.list.items]]
+        details = "Driving digital transformation across industries, and the importance of integrating Al as a key technology to advance climate tech and climate action."
+        [[params.experience.list.items]]
+        details = "Communicating with stakeholders to understand their requirements, provide updates on project progress, and manage expectations"
+        [[params.experience.list.items]]
+        details = "Supporting clients in their Change management and Smart automation projects"
+        [[params.experience.list.items]]
+        details = "Contributing to the development of the BU : Digitalization for Sustainability"
+
+
+        [[params.experience.list]]
         title = "COP28 - Civil Society Liaison Officer"
-        dates = "October - Dec. 2023"
+        dates = "Oct. - Dec. 2023"
         company = "Expo City Dubai - United Arab Emirates"
         skills = "High-level event management, Communication, International development"
         location = "Dubaï (UAE)"
