@@ -101,20 +101,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         degree = "Bachelor - Communication Sciences"
         university = "Université d'Avignon (FR)"
         dates = "2005 - 2008"
-
-    [params.awards]
-        enable = true
-
-        [[params.awards.list]]
-        name = "Swiss Design Contest - #1 Winner"
-        body = "Creation of an entire brand design & strategy."
-        date = "2021"
-        [[params.awards.list]]
-        name = "Prize-winning team following a call for proposals Marseille - Provence 2013 : European Capitals of Culture"
-        body = "In collaboration with the MuCEM Museum : Proposal of mechanisms for promoting collections and integrating the structure from the local to the Euro-Mediterranean vision, Creation of a new scenography and spatial design, and mediation process."
-        date = "2009"
         
-
     [params.languages]
         enable = true
 
@@ -139,6 +126,18 @@ googleAnalytics = 'G-90QQ9M98J3'
         name = "Digital culture"
         [[params.interests.list]]
         name = "Yoga / Handpan"
+
+    [params.awards]
+        enable = true
+
+        [[params.awards.list]]
+        name = "Swiss Design Contest - #1 Winner"
+        body = "Creation of an entire brand design & communication strategy."
+        date = "2021"
+        [[params.awards.list]]
+        name = "Prize-winning team following a call for proposals Marseille - Provence 2013 : European Capitals of Culture"
+        body = "In collaboration with the MuCEM Museum : Proposal of mechanisms for promoting collections and integrating the structure from the local to the Euro-Mediterranean vision, Creation of a new scenography and spatial design, and mediation process."
+        date = "2009"
 
     [params.summary]
         enable = true
