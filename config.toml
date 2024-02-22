@@ -103,16 +103,16 @@ googleAnalytics = 'G-90QQ9M98J3'
         dates = "2005 - 2008"
 
     [params.awards]
-        enable = false
+        enable = true
 
+        [[params.awards.list]]
+        name = "MuCEM"
+        body = "blablabla"
+        date = "2009"
         # [[params.awards.list]]
-        # name = ""
-        # body = ""
-        # date = ""
-        # [[params.awards.list]]
-        # name = ""
-        # body = ""
-        # date = ""
+        name = "Swiss Design Contest - #1 Winner"
+        body = "Creation to a brand design & strategy."
+        date = "2009"
 
     [params.languages]
         enable = true
@@ -165,7 +165,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.experience.list.items]]
         details = "Supporting clients in their Change management and Smart automation projects"
         [[params.experience.list.items]]
-        details = "Contributing to the development of the BU : Digitalization for Sustainability"
+        details = "Contributing to the development of the BU: Digitalization for Sustainability"
 
 
         [[params.experience.list]]
