@@ -130,14 +130,14 @@ googleAnalytics = 'G-90QQ9M98J3'
     [params.awards]
         enable = false
 
-        [[params.awards.list]]
-        name = "Swiss Design Contest - Winner"
-        body = "Creation of an entire brand design & communication strategy."
-        date = "2021"
-        [[params.awards.list]]
-        name = "Prize-winning team following a call for proposals Marseille - Provence 2013 : European Capitals of Culture"
-        body = "In collaboration with the MuCEM Museum : Proposal of mechanisms for promoting collections and integrating the structure from the local to the Euro-Mediterranean vision, Creation of a new scenography and spatial design, and mediation process."
-        date = "2009"
+        # [[params.awards.list]]
+        # name = "Swiss Design Contest - Winner"
+        # body = "Creation of an entire brand design & communication strategy."
+        # date = "2021"
+        # [[params.awards.list]]
+        # name = "Prize-winning team following a call for proposals Marseille - Provence 2013 : European Capitals of Culture"
+        # body = "In collaboration with the MuCEM Museum : Proposal of mechanisms for promoting collections and integrating the structure from the local to the Euro-Mediterranean vision, Creation of a new scenography and spatial design, and mediation process."
+        # date = "2009"
 
     [params.summary]
         enable = true
@@ -309,16 +309,14 @@ googleAnalytics = 'G-90QQ9M98J3'
         # [[params.information.list.items]]
         # details = ""
 
-        [[params.information.list]]
+        [[params.Award.list]]
         title = "Awards"
-        details = "Motorbike, Digital culture, Kitesurfing, Yoga / Meditation / Hand pan"
-        name = "Swiss Design Contest - Winner"
-        body = "Creation of an entire brand design & communication strategy."
-        date = "2021"
+        details = "2021 / Swiss Design Contest - Winner"
+        details = "Creation of an entire brand design & communication strategy."
         [[params.information.list]]
-        name = "Prize-winning team following a call for proposals Marseille - Provence 2013 : European Capitals of Culture"
-        body = "In collaboration with the MuCEM Museum : Proposal of mechanisms for promoting collections and integrating the structure from the local to the Euro-Mediterranean vision, Creation of a new scenography and spatial design, and mediation process."
-        date = "2009"
+        title = "2009 / Prize-winning team following a call for proposals Marseille - Provence 2013 : European Capitals of Culture"
+        details = "In collaboration with the MuCEM Museum : Proposal of mechanisms for promoting collections and integrating the structure from the local to the Euro-Mediterranean vision, Creation of a new scenography and spatial design, and mediation process."
+        
 
     [params.recommendations]
         enable = true
