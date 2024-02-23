@@ -43,15 +43,15 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.skills.list.items]]
         details = "Communication & Design"
         [[params.skills.list.items]]
+        details = "Sustainibility"
+        [[params.skills.list.items]]
         details = "Digital transformation"
         [[params.skills.list.items]]
         details = "People management"
         [[params.skills.list.items]]
-        details = "Summit & event management"
+        details = "International events management"
         [[params.skills.list.items]]
         details = "Agile methodologies (scrum/kanban)"
-        [[params.skills.list.items]]
-        details = "Estimation and planning"
 
         [[params.skills.list]]
         title = "Technical"
