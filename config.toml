@@ -287,7 +287,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.projects.list]]
         title = "Construction Coordinator, builder"
         meta = "Construction"
-        tagline = "Design, creation, and construction of my personal house, 2019-2020"
+        tagline = "Design, and construction of a entire house, 2019-2020"
         
         [[params.projects.list]]
         title = "Action Sport, volunteering"
