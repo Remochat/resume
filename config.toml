@@ -303,14 +303,14 @@ googleAnalytics = 'G-90QQ9M98J3'
         enable = true
 
         [[params.information.list]]
-        title = "Awards | **2021 Zürich Design Contest - Winner**"
+        title = "Awards | 2021 Zürich Design Contest - Winner"
         [[params.information.list.items]]
-        details = ": Creation of an entire brand design & communication strategy."
+        details = "Creation of an entire brand design & communication strategy."
 
         [[params.information.list]]
-        title = "Awards | **2009 Prize-winning team following a Call for proposals Marseille - Provence 2013: European Capitals of Culture**"
+        title = "Awards | 2009 Prize-winning team following a Call for proposals Marseille - Provence 2013: European Capitals of Culture"
         [[params.information.list.items]]
-        details = "In collaboration with the MuCEM Museum : Proposal of mechanisms for promoting collections and integrating the structure from the local to the Euro-Mediterranean vision | Creation of a new scenography and spatial design | Mediation process."
+        details = "In collaboration with the Museum of European and Mediterranean Civilisations (MuCEM): Proposal of mechanisms for promoting collections and integrating the structure from the local to the Euro-Mediterranean vision, Creation of a new scenography and spatial design, and Mediation process."
 
     [params.recommendations]
         enable = true
