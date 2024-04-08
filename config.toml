@@ -288,7 +288,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Les Chèvres de la Garrigue"
         meta = "Agroecology & Biodiversity" 
         # Support to a collective participative approach in Goats production
-        tagline = "Support to a Goats cheeses production and protection of Rove breed, distinctive local one emblematic of the Garrigues South of France | 2022-2024"
+        tagline = "Support for Goat cheese production and the protection of the Rove breed, a distinctive local breed emblematic of the Garrigues in the South of France | 2022-2024"
 
         [[params.projects.list]]
         title = "Construction Coordinator, Montpellier"
