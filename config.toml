@@ -7,7 +7,7 @@ googleAnalytics = 'G-90QQ9M98J3'
 [params]
     baseURL = "https://ge-allemand.me"
     author = "geraldine allemand"
-    description = "geraldine allemand resume. Communication expert / Climate Action, Digital & Strategy / Project and event hands'on manager | Communication director with 14+ years of experience handling complex projects, environment, and teams."
+    description = "geraldine allemand resume. Communication expert / Digital innovation, Change Management & Sustainability / Project and event hands'on manager | Communication director with 14+ years of experience handling complex projects, environment, and teams."
 
     primaryColor = "#61788c"
     textPrimaryColor = "#292929"
@@ -15,7 +15,7 @@ googleAnalytics = 'G-90QQ9M98J3'
     [params.profile]
         enable = true
         name = "Geraldine Allemand"
-        tagline = "Strategic communicator | Climate Action & Digital"
+        tagline = "Strategic communicator | Digital Innovation, Change Management & Sustainability"
         avatar = "Photo-ID-pro.jpeg"
 
     [params.contact]
@@ -141,12 +141,14 @@ googleAnalytics = 'G-90QQ9M98J3'
 
     [params.summary]
         enable = true
-        text = """**14 years of experience in international advanced communication and digital transformation in Europe, North America, West Africa, and Middle East.**
+        text = """**14 years of experience in international advanced communication and digital transformation across Europe, North America, West Africa, and the Middle East.**
 - Driving strategy and communication with an agile mindset in complex projects, environment, and teams
-- Organization and handling in the management of international summits (international cooperation, sustainable development)
-- Bridging mutli-functional roles to secure projects impact
-- Crafting communication in brand strategies"""
+- Organizing and managing international events and Summits focused on international cooperation
+- Bridging mutli-functional roles to ensure projects impact
+- Turning sustainability ambition into action through business strategies consulting"""
         moto = "Moto: Simplicity is essential. Keep it is an art."
+        # handling in the management of international summits (international cooperation, sustainable development)
+        # Intersecting business model and technology transformation to unlock Cie agility
 
     [params.experience]
         enable = true
