@@ -285,10 +285,10 @@ googleAnalytics = 'G-90QQ9M98J3'
         enable = true
 
         [[params.projects.list]]
-        title = "Support to a Goats cheeses production and protection of Rove breed, distinctive local one emblematic of the Garrigues South of France"
+        title = "Les Chèvres de la Garrigue"
         meta = "Agroecology & Biodiversity" 
         # Support to a collective participative approach in Goats production
-        tagline = "Les Chèvres de la Garrigue | 2022-2024"
+        tagline = "Support to a Goats cheeses production and protection of Rove breed, distinctive local one emblematic of the Garrigues South of France | 2022-2024"
 
         [[params.projects.list]]
         title = "Construction Coordinator, Montpellier"
