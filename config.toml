@@ -285,6 +285,12 @@ googleAnalytics = 'G-90QQ9M98J3'
         enable = true
 
         [[params.projects.list]]
+        title = "Support to a Goats cheeses production and protection of Rove breed, distinctive local one emblematic of the Garrigues South of France"
+        meta = "Agroecology & Biodiversity" 
+        # Support to a collective participative approach in Goats production
+        tagline = "Les Chèvres de la Garrigue | 2022-2024"
+
+        [[params.projects.list]]
         title = "Construction Coordinator, Montpellier"
         meta = "Construction"
         tagline = "Design, and construction of a entire house | 2019-2020"
@@ -302,7 +308,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.projects.list]]
         title = "Le Vieux Canal, Azerailles"
         meta = "Arts - Music"
-        tagline = "Developing a new festival to disseminate current music in all its diversity | 2011-2012"
+        tagline = "Developing a new festival (communicaiton, partnership, and organization) to disseminate current music in all its diversity | 2011-2012"
 
     [params.information]
         enable = true
