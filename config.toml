@@ -175,7 +175,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "UNFCCC COP28 - Civil Society Liaison Officer"
         dates = "Oct. - Dec. 2023"
         company = "Expo City Dubai - United Arab Emirates"
-        skills = "High-level event management, Communication, International development"
+        skills = "High-level event management, Communication, International Development"
         location = "Dubaï (UAE)"
         details = "Initializing for the very first time in the UAE history, a dynamic-event space to let civil society expresses its will and recommendations: the Voice for Action hub."
         [[params.experience.list.items]]
@@ -196,7 +196,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Digital project coordinator"
         dates = "2022 - Sept. 2023"
         company = "CGI - France"
-        skills = "Digital transformation, Business process, Automation"
+        skills = "Digital transformation, Business process Consulting, Automation"
         location = "Montpellier (FR)"
         details = "Within the CGI Digital Innovation Center, supporting the digital transformation of companies by modeling, optimizing and automating internal processes."
         [[params.experience.list.items]]
@@ -214,7 +214,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Contractor - Communication & Design"
         dates = "2021 - 2022"
         company = "Beyondframes. - Switzerland"
-        skills = "Communication, Strategy, Print & digital design"
+        skills = "Communication Strategy, Print & digital design"
         location = "Zurich (CH)"
         details = "Beyond frames offers complete personalized services to entrepreneurs, with deep expertise in communication, brand strategy, design and digital."
         [[params.experience.list.items]]
@@ -230,7 +230,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Co-director in charge of communication and events"
         dates = "2017-2019"
         company = "CARI NGO - International cooperation"
-        skills = "International development, Management, Communication, High-level event management, Advocacy"
+        skills = "International Development, Management, Communication, High-level event management, Advocacy"
         location = "Montpellier (FR)"
         details = "French NGO coordinating 3 international civil society networks in 10 countries (Africa & Middle East) and organizing international environmental summits. As Co-director, I was in charge of:"
         [[params.experience.list.items]]
@@ -247,7 +247,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Communication officer"
         dates = "2013 - 2016"
         company = "CARI NGO - International cooperation"
-        skills = "International development, Communication, Media relation, Project management"
+        skills = "International Development, Communication, Media Relation, Project management"
         location = "Montpellier (FR)"
         details = "As Communication strategic focal point for 3 civil society networks in Sahelian and Maghreb region, I created communication tools to assist dialogue between actors involved in drylands."
         [[params.experience.list.items]]
@@ -272,7 +272,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Communication & project manager"
         dates = "2010-2012"
         company = "Baccarat - France"
-        skills = "Communication, event management, territorial development"
+        skills = "Communication, Event management, Territorial development"
         location = "Baccarat (FR)"
         details = "Key player in the creation of a territorial project of 2 million euros based on two brownfields of Baccarat SA including : a 200m2 international exhibition gallery, an artists’ incubator, a training center, and an R&D center."
 
@@ -280,7 +280,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Projet manager"
         dates = "2009"
         company = "Université de Montpellier - France"
-        skills = "Communication, Design, architecture, analysis"
+        skills = "Communication, Design, Architecture"
         location = "Montpellier (FR)"
         details = "Carrying out an accessibility and signage diagnosis to improve the integration of the diversity of users in complex environment." 
 
