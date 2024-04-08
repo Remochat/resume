@@ -7,7 +7,7 @@ googleAnalytics = 'G-90QQ9M98J3'
 [params]
     baseURL = "https://ge-allemand.me"
     author = "geraldine allemand"
-    description = "geraldine allemand resume. Communication expert / Digital innovation, Change Management & Sustainability / Project and event hands'on manager | Communication director with 14+ years of experience handling complex projects, environment, and teams."
+    description = "geraldine allemand resume. Communication expert / Digital transformation & Sustainability / Project and event hands'on manager | Communication director with 14+ years of experience handling complex projects, environment, and teams."
 
     primaryColor = "#61788c"
     textPrimaryColor = "#292929"
@@ -15,7 +15,8 @@ googleAnalytics = 'G-90QQ9M98J3'
     [params.profile]
         enable = true
         name = "Geraldine Allemand"
-        tagline = "Strategic communicator | Digital Innovation, Change Management & Sustainability"
+        tagline = "Strategic communicator | Digital transformation & Sustainability"
+        # Digital Innovation, Change Management & Sustainability
         avatar = "Photo-ID-pro.jpeg"
 
     [params.contact]
@@ -157,7 +158,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Process & Digital Transformation Consultant"
         dates = "Feb. - Present Day"
         company = "CGI - France"
-        skills = "Digital transformation, Change Management, Sustainable Digitalization"
+        skills = "Digital transformation, Change Management, Sustainability"
         location = "Montpellier (FR)"
         details = "My role is both strategic and hands-on, requiring a mix of leadership, technical expertise, and business acumen."
         [[params.experience.list.items]]
