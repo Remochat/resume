@@ -19,7 +19,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         # High-level Event Manager, Innovation & Sustainibility
         # Digital Innovation, Change Management & Sustainability
         # Digital transformation & Sustainability
-        avatar = "Photo-ID-pro.jpeg"
+        # avatar = "Photo-ID-pro.jpeg"
 
     [params.contact]
         enable = true
@@ -262,7 +262,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         company = "CARI NGO - International cooperation"
         skills = "International Development, Communication, Media Relation, Project management"
         location = "Montpellier (FR)"
-        details = "As Communication strategic focal point for 3 civil society networks in Sahelian and Maghreb region, I created communication tools to assist dialogue between actors involved in drylands. I had to ensure that the media relations and news release processes are properly implemented within the CARI team and across those of our direct partners in Burkina Faso, Niger, Mali, Mauritania, Morrocco, Tunisia, Algeria and Tchad by:"
+        details = "As Communication strategic focal point for 3 civil society networks in Sahelian and Maghreb region, I created communication tools to assist dialogue between actors involved in drylands. I had to ensure that the media relations and news release processes are properly implemented within the CARI team and across those of our direct partners in Burkina Faso, Niger, Mali, Mauritania, Morocco, Tunisia, Algeria and Tchad by:"
         [[params.experience.list.items]]
         details = "Managing international media relation strategy and execution"
         [[params.experience.list.items]]
