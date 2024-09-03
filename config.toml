@@ -136,7 +136,8 @@ googleAnalytics = 'G-90QQ9M98J3'
         name = "Yoga / Handpan"
 
     [params.awards]
-        enable = true
+        enable = false
+        # Award paragraph created below under the title Params.information
 
         # [[params.awards.list]]
         # name = "Swiss Design Contest - Winner"
@@ -331,7 +332,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.information.list]]
         title = "2009 | Prize-winning team following a Call for proposals Marseille - Provence 2013: European Capitals of Culture"
         [[params.information.list.items]]
-        details = "In collaboration with the Museum of European and Mediterranean Civilisations (MuCEM): Proposal of mediaiton mechanisms & processes for promoting collections and integrating the structure from the local to the Euro-Mediterranean vision, and Creation of a new scenography and spatial design for temporary exhibition."
+        details = "In collaboration with the Museum of European and Mediterranean Civilisations (MuCEM): Proposal of mediation mechanisms & processes for promoting collections and integrating the structure from the local to the Euro-Mediterranean vision, and Creation of a new scenography and spatial design for temporary exhibition."
 
     [params.recommendations]
         enable = true
