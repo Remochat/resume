@@ -62,27 +62,32 @@ googleAnalytics = 'G-90QQ9M98J3'
         details = "SEO / SEA, Google Ads"
         [[params.skills.list.items]]
         details = "Html, CSS, JS"
+        # [[params.skills.list.items]]
+        # details = "CMS (Drupal, Wordpress)"
         [[params.skills.list.items]]
-        details = "CMS (Drupal, Wordpress)"
+        details = "Git, GitHub, Jira"
         [[params.skills.list.items]]
-        details = "Git, GitHub"
-        [[params.skills.list.items]]
-        details = "Figma, Miro"
+        details = "Figma, Miro, Draw.io"
         [[params.skills.list.items]]
         details = "MacOS, Windows & Linux"
 
         [[params.skills.list]]
         title = "Soft"
+        # details = "Behavioural Competencies"
+        [[params.skills.list.items]]
+        details = "Fostering Cooperation"
         [[params.skills.list.items]]
         details = "High sense of interculturality"
         [[params.skills.list.items]]
         details = "Impact driven"
+        # details = "Result Orientation"
         [[params.skills.list.items]]
         details = "Insightful"
         [[params.skills.list.items]]
         details = "Proactive"
         [[params.skills.list.items]]
-        details = "Self reliant"
+        details = "Continuous Improvement"
+        # details = "Self reliant"
         [[params.skills.list.items]]
         details = "Team spirited"
     
