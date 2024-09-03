@@ -152,18 +152,19 @@ googleAnalytics = 'G-90QQ9M98J3'
         enable = true
         text = """**14 years of experience in international advanced communication and digital transformation across Europe, North America, West Africa, and the Middle East.**
 - Driving strategy and communication with an agile mindset in complex projects, environment, and teams
+- Fostering engagement and cooperation across impactful communication
 - Managing international high-level events focused on international cooperation
 - Bridging multi-functional roles to ensure projects impact
 - Turning sustainability ambition into action through business strategies consulting"""
         moto = "Moto: Simplicity is essential. Keep it is an art."
-        # handling in the management of international summits (international cooperation, sustainable development)
+        # handling // less formal, less control over something than manage //  in the management of international summits (international cooperation, sustainable development)
         # Intersecting business model and technology transformation to unlock Cie agility
 
     [params.experience]
         enable = true
 
         [[params.experience.list]]
-        title = "Process & Digital Transformation Consultant"
+        title = "Digital Transformation Consultant"
         dates = "Feb. 2024 - Present Day"
         company = "CGI - France"
         skills = "Digital transformation, Change Management, Sustainability"
@@ -243,6 +244,10 @@ googleAnalytics = 'G-90QQ9M98J3'
         details = "French NGO coordinating 3 international civil society networks in 10 countries (Africa & Middle East) and organizing international environmental summits. As Co-director, I was in charge of:"
         [[params.experience.list.items]]
         details = "Development of strategic directions & projects design"
+        [[params.experience.list.items]]
+        details = "Performing all of the media relations activities of the CARI NGO, its networks and high-level events"
+        [[params.experience.list.items]]
+        details = "Fostering and managing engagement in the community of Climate & Sustainable Development journalists, and facilitating their access to Civil Society key actors and CARI Programmes"
         [[params.experience.list.items]]
         details ="Promotion of civil society input in the political arena managing the full life-cycle of events (United Nations & international summits)"
         [[params.experience.list.items]]
