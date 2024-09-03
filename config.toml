@@ -15,8 +15,10 @@ googleAnalytics = 'G-90QQ9M98J3'
     [params.profile]
         enable = true
         name = "Geraldine Allemand"
-        tagline = "Strategic communicator | Digital transformation & Sustainability"
+        tagline = "Strategic communicator | Change Management, Innovation & Sustainability"
+        # High-level Event Manager, Innovation & Sustainibility
         # Digital Innovation, Change Management & Sustainability
+        # Digital transformation & Sustainability
         avatar = "Photo-ID-pro.jpeg"
 
     [params.contact]
@@ -134,7 +136,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         name = "Yoga / Handpan"
 
     [params.awards]
-        enable = false
+        enable = true
 
         # [[params.awards.list]]
         # name = "Swiss Design Contest - Winner"
