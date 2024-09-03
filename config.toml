@@ -171,11 +171,11 @@ googleAnalytics = 'G-90QQ9M98J3'
         location = "Montpellier (FR)"
         details = "My role is both strategic and hands-on, requiring a mix of leadership, technical expertise, and business acumen."
         [[params.experience.list.items]]
-        details = "Driving digital transformation across industries, and the importance of integrating Al as a key technology to advance Climate Tech and Climate Action."
+        details = "Driving digital transformation across industries, and the importance of integrating Al as a key technology to advance Climate Tech and Climate Action"
         [[params.experience.list.items]]
         details = "Communicating with stakeholders to understand their requirements, provide updates on project progress, and manage expectations by understanding business needs, often unexpressed"
         [[params.experience.list.items]]
-        details = "Supporting clients in their Change management and Smart automation projects by proposing innovative solutions adapted to economic, technological and organizational constraints."
+        details = "Supporting clients in their Change management and Smart automation projects by proposing innovative solutions adapted to economic, technological and organizational constraints"
         [[params.experience.list.items]]
         details = "Supporting change and ensuring that the solutions proposed are adopted and effective"
         [[params.experience.list.items]]
@@ -245,15 +245,15 @@ googleAnalytics = 'G-90QQ9M98J3'
         location = "Montpellier (FR)"
         details = "French NGO coordinating 3 international civil society networks in 10 countries (Africa & Middle East) and organizing international environmental summits. As Co-director, I was in charge of:"
         [[params.experience.list.items]]
-        details = "Development of strategic directions & projects design"
+        details = "Developping Strategic directions & projects design"
         [[params.experience.list.items]]
         details = "Performing all of the media relations activities of the CARI NGO, its networks and high-level events"
         [[params.experience.list.items]]
         details = "Fostering and managing engagement in the community of Climate & Sustainable Development journalists, and facilitating their access to Civil Society key actors and CARI Programmes"
         [[params.experience.list.items]]
-        details ="Promotion of civil society input in the political arena managing the full life-cycle of events (United Nations & International Summits)"
+        details = "Promotion of civil society input in the political arena managing the full life-cycle of events (United Nations & International Summits)"
         [[params.experience.list.items]]
-        details = "Internal operational management: growth, 1:1, team building, feedback, etc."
+        details = "Internal operational management: growth, 1:1, team building, feedback..."
         [[params.experience.list.items]]
         details = "360º communication campaigns and crisis communication."
         
@@ -266,14 +266,15 @@ googleAnalytics = 'G-90QQ9M98J3'
         location = "Montpellier (FR)"
         details = "As Communication strategic focal point for 3 civil society networks in Sahelian and Maghreb region, I created communication tools to assist dialogue between actors involved in drylands."
         [[params.experience.list.items]]
-        I had to ensure that the media relations and news release processes are properly implemented within the CARI team and across those of our direct partners in Burkina Faso, Niger, Mali, Mauritania, Morocco, Tunisia, Algeria and Tchad
+        details = "Ensuring that the media relations and news release processes are properly implemented within the CARI team and across those of our direct partners in Burkina Faso, Niger, Mali, Mauritania, Morocco, Tunisia, Algeria and Tchad"
+        [[params.experience.list.items]]
         details = "Managing international media relation strategy and execution"
         [[params.experience.list.items]]
         details = "Organising interviews and briefings for individual journalists, as well as preparing, sending and updating press releases and news releases when appropriate"
         [[params.experience.list.items]]
         details = "Create and implement organizational digital communication plans that align with the NGO’s missions and brand"
         [[params.experience.list.items]]
-        details = "Creation of the communication unit & new processes : objectives, monitoring, communication security policy, etc."
+        details = "Creation of the communication unit & new processes : objectives, monitoring, communication security policy..."
         [[params.experience.list.items]]
         details = "Editorial lead: 9 websites, 5 newsletters, +10 000 followers, dozen of print supports (eg. user guides, magazines...)."
          
