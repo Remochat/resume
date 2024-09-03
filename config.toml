@@ -15,11 +15,11 @@ googleAnalytics = 'G-90QQ9M98J3'
     [params.profile]
         enable = true
         name = "Geraldine Allemand"
-        tagline = "Strategic communicator | Change Management, Innovation & Sustainability"
+        tagline = "Communication Expert | Change Management, Innovation & Sustainability"
         # High-level Event Manager, Innovation & Sustainibility
         # Digital Innovation, Change Management & Sustainability
         # Digital transformation & Sustainability
-        # avatar = "Photo-ID-pro.jpeg"
+        # avatar = "Photo-ID-pro.jpeg" // PICTURE's MODE
 
     [params.contact]
         enable = true
@@ -50,9 +50,9 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.skills.list.items]]
         details = "Digital transformation"
         [[params.skills.list.items]]
-        details = "People management"
-        [[params.skills.list.items]]
         details = "International events management"
+        [[params.skills.list.items]]
+        details = "People management"
         [[params.skills.list.items]]
         details = "Agile methodologies (scrum/kanban)"
 
@@ -98,7 +98,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         enable = true
 
         [[params.education.list]]
-        degree = "Master - Communication & cultural events"
+        degree = "Master - Communication & Cultural Events"
         university = "Université d'Avignon (FR)"
         dates = "2009 - 2010"
         [[params.education.list]]
@@ -171,11 +171,13 @@ googleAnalytics = 'G-90QQ9M98J3'
         location = "Montpellier (FR)"
         details = "My role is both strategic and hands-on, requiring a mix of leadership, technical expertise, and business acumen."
         [[params.experience.list.items]]
-        details = "Driving digital transformation across industries, and the importance of integrating Al as a key technology to advance climate tech and climate action."
+        details = "Driving digital transformation across industries, and the importance of integrating Al as a key technology to advance Climate Tech and Climate Action."
         [[params.experience.list.items]]
-        details = "Communicating with stakeholders to understand their requirements, provide updates on project progress, and manage expectations"
+        details = "Communicating with stakeholders to understand their requirements, provide updates on project progress, and manage expectations by understanding business needs, often unexpressed"
         [[params.experience.list.items]]
-        details = "Supporting clients in their Change management and Smart automation projects"
+        details = "Supporting clients in their Change management and Smart automation projects by proposing innovative solutions adapted to economic, technological and organizational constraints."
+        [[params.experience.list.items]]
+        details = "Supporting change and ensuring that the solutions proposed are adopted and effective"
         [[params.experience.list.items]]
         details = "Contributing to the development of the BU: Digitalization for Sustainability"
 
@@ -262,8 +264,9 @@ googleAnalytics = 'G-90QQ9M98J3'
         company = "CARI NGO - International cooperation"
         skills = "International Development, Communication, Media Relation, Project management"
         location = "Montpellier (FR)"
-        details = "As Communication strategic focal point for 3 civil society networks in Sahelian and Maghreb region, I created communication tools to assist dialogue between actors involved in drylands. I had to ensure that the media relations and news release processes are properly implemented within the CARI team and across those of our direct partners in Burkina Faso, Niger, Mali, Mauritania, Morocco, Tunisia, Algeria and Tchad by:"
+        details = "As Communication strategic focal point for 3 civil society networks in Sahelian and Maghreb region, I created communication tools to assist dialogue between actors involved in drylands."
         [[params.experience.list.items]]
+        I had to ensure that the media relations and news release processes are properly implemented within the CARI team and across those of our direct partners in Burkina Faso, Niger, Mali, Mauritania, Morocco, Tunisia, Algeria and Tchad
         details = "Managing international media relation strategy and execution"
         [[params.experience.list.items]]
         details = "Organising interviews and briefings for individual journalists, as well as preparing, sending and updating press releases and news releases when appropriate"
