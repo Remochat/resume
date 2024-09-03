@@ -284,8 +284,20 @@ googleAnalytics = 'G-90QQ9M98J3'
         company = "Art souterrain - Canada"
         skills = "Communication, media relation, event management, artist support"
         location = "Montreal (CA)"
-        details = "Communication and implementation of cultural projects promoting contemporary art in an urban environment, 100.000 visitors per day."
-
+        details = "Communication and implementation of cultural projects promoting Contemporary Art in an urban environment. One Month Festival welcoming 100.000 visitors per day across 7km of pedestrian circuit."
+        [[params.experience.list.items]]
+        details = "Co-organization of artistic and cultural projects in addition to the festival and developing dedicated funding and grants"
+        [[params.experience.list.items]]
+        details = "Developing and distributing a range of digital content: newsletters, social networks (Instagram, Facebook, and Twitter), podcasts..."
+        [[params.experience.list.items]]
+        details = "Creating a graphic charter, communication kit, press kit, sponsorship development"        
+        [[params.experience.list.items]]
+        details = "Maintaining media relations, ensuring they are briefed regularly"     
+        [[params.experience.list.items]]
+        details = "Management / Team coordination support: 300 volunteers as public mediators"
+        [[params.experience.list.items]]
+        details = "Supporting the preparation, set-up and dismantling of exhibitions: 130 contemporary creations through 8 mediums."
+        
         [[params.experience.list]]
         title = "Communication & project manager"
         dates = "2010-2012"
