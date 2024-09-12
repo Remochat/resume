@@ -305,8 +305,11 @@ googleAnalytics = 'G-90QQ9M98J3'
         company = "Baccarat - France"
         skills = "Communication, Event management, Territorial development"
         location = "Baccarat (FR)"
-        details = "Key player in the creation of a territorial project of 2 million euros based on two brownfields of Baccarat SA including : a 200m2 international exhibition gallery, an artists’ incubator, a training center, and an R&D center."
-
+        details = "Key player in the creation and management of a €2M territorial project based on two brownfields of Baccarat SA including : a 200m² international exhibition gallery, an artists’ incubator, a training center, and an R&D center."
+        [[params.experience.list.items]]
+        details = "Experienced in communication strategy, media relations, audience development, event management, and artist support, with expertise in contemporary aesthetics and public relations."
+        
+        
         [[params.experience.list]]
         title = "Projet manager"
         dates = "2009"
