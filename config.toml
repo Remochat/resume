@@ -167,7 +167,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Digital Transformation Consultant"
         dates = "Feb. 2024 - Present Day"
         company = "CGI - France"
-        skills = "Digital transformation, Change Management, Sustainability"
+        skills = "Digital transformation, Change Management, Sustainability, Advisory"
         location = "Montpellier (FR)"
         details = "My role is both strategic and hands-on, requiring a mix of leadership, technical expertise, and business acumen."
         [[params.experience.list.items]]
@@ -186,7 +186,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "UNFCCC COP28 Governance - Civil Society Liaison Officer"
         dates = "Oct. - Dec. 2023"
         company = "Expo City Dubai - United Arab Emirates"
-        skills = "High-level event management, Communication, International Development"
+        skills = "High-level event management, Communication, International Development, Advisory"
         location = "Dubaï (UAE)"
         details = "Initializing for the very first time in the UAE history, a dynamic-event space to let civil society expresses its will and recommendations: the Voice for Action hub."
         [[params.experience.list.items]]
@@ -207,7 +207,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Digital project coordinator"
         dates = "2022 - Sept. 2023"
         company = "CGI - France"
-        skills = "Digital transformation, Business process Consulting, Automation"
+        skills = "Digital transformation, Business process Consulting, Automation, Advisory"
         location = "Montpellier (FR)"
         details = "Within the CGI Digital Innovation Center, supporting the digital transformation of companies by modeling, optimizing and automating internal processes."
         [[params.experience.list.items]]
@@ -225,7 +225,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Contractor - Communication & Design"
         dates = "2021 - 2022"
         company = "Beyondframes. - Switzerland"
-        skills = "Communication Strategy, Print & digital design"
+        skills = "Communication Strategy, Print & digital design, Advisory"
         location = "Zurich (CH)"
         details = "Beyond frames offers complete personalized services to entrepreneurs, with deep expertise in communication, brand strategy, design and digital."
         [[params.experience.list.items]]
