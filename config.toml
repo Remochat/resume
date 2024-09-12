@@ -319,6 +319,11 @@ googleAnalytics = 'G-90QQ9M98J3'
         enable = true
 
         [[params.projects.list]]
+        title = "Construction Coordinator, Montpellier"
+        meta = "Architecture"
+        tagline = "Design, and deep renovation of a flat | 2023"
+        
+        [[params.projects.list]]
         title = "Les Chèvres de la Garrigue"
         meta = "Agroecology & Biodiversity" 
         # Support to a collective participative approach in Goats production
@@ -326,7 +331,7 @@ googleAnalytics = 'G-90QQ9M98J3'
 
         [[params.projects.list]]
         title = "Construction Coordinator, Montpellier"
-        meta = "Construction"
+        meta = "Architecture"
         tagline = "Design, and construction of a entire house | 2019-2020"
         
         [[params.projects.list]]
