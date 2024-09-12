@@ -342,7 +342,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.projects.list]]
         title = "Le Vieux Canal, Azerailles"
         meta = "Arts - Music"
-        tagline = "Developing a new festival (communicaiton, partnership, and organization) to disseminate current music in all its diversity | 2011-2012"
+        tagline = "Developing a new festival (communication, partnership, and organization) to disseminate current music in all its diversity | 2011-2012"
 
     [params.information]
         enable = true
