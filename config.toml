@@ -42,6 +42,18 @@ googleAnalytics = 'G-90QQ9M98J3'
         enable = true
 
         [[params.skills.list]]
+        title = "Certifications"
+        [[params.skills.list.items]]
+        details = "SAFe 6 Agilist - 2024"
+        [[params.skills.list.items]]
+        details = "Sustainable Digital - 2024"
+        [[params.skills.list.items]]
+        details = "Design Thinking - 2023"
+        [[params.skills.list.items]]
+        details = "Front End Coding - 2022"
+    
+
+        [[params.skills.list]]
         title = "Professional"
         [[params.skills.list.items]]
         details = "Communication & Design"
