@@ -202,6 +202,8 @@ googleAnalytics = 'G-90QQ9M98J3'
         location = "Dubaï (UAE)"
         details = "Initializing for the very first time in the UAE history, a dynamic-event space to let civil society expresses its will and recommendations: the Voice for Action hub."
         [[params.experience.list.items]]
+        details = "Plan and execute side events and communication strategies to amplify the initiative's messages as required"
+        [[params.experience.list.items]]
         details = "Designing and planning the Voice for Action hub, ensuring its seamless integration into all aspects of operational planning"
         [[params.experience.list.items]]
         details = "Leading the effective communication between the Civil society and the Host country, engaging with a wide array of stakeholders"
@@ -259,6 +261,8 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.experience.list.items]]
         details = "Developping Strategic directions & projects design"
         [[params.experience.list.items]]
+        details = "Planning and executing side events and communication strategies to amplify the initiative's messages as required"
+        [[params.experience.list.items]]
         details = "Performing all of the media relations activities of the CARI NGO, its networks and high-level events"
         [[params.experience.list.items]]
         details = "Fostering and managing engagement in the community of Climate & Sustainable Development journalists, and facilitating their access to Civil Society key actors and CARI Programmes"
@@ -295,7 +299,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Communication & Side event manager"
         dates = "2013"
         company = "Art souterrain - Canada"
-        skills = "Communication, media relation, event management, artist support"
+        skills = "Communication, Media Relation, Event Management, Artist support"
         location = "Montreal (CA)"
         details = "Communication and implementation of cultural projects promoting Contemporary Art in an urban environment. One Month Festival welcoming 100.000 visitors per day across 7km of pedestrian circuit."
         [[params.experience.list.items]]
@@ -315,7 +319,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Communication & project manager"
         dates = "2010-2012"
         company = "Baccarat - France"
-        skills = "Communication, Event management, Territorial development"
+        skills = "Communication, Event management, Media Relation, Territorial development"
         location = "Baccarat (FR)"
         details = "Key player in the creation and management of a €2M territorial project based on two brownfields of Baccarat SA including : a 200m² international exhibition gallery, an artists’ incubator, a training center, and an R&D center."
         [[params.experience.list.items]]
