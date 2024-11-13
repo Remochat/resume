@@ -372,7 +372,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         enable = true
 
         [[params.information.list]]
-        title = "2024 | UiPath Awards - Winner"
+        title = "2024 | UiPath AI25 Awards - Winner"
         [[params.information.list.items]]
         details = "Key contributor in CGI France's application, playing a decisive role in securing two awards: Worldwide Industry Solutions Partner of the Year and Industry Solutions Partner of the Year. This achievement marks the third consecutive year that CGI France has been recognized by the publisher, a historic first that highlights the leadership of my Team in Automation and Artificial intelligence."
 
