@@ -202,7 +202,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         location = "Dubaï (UAE)"
         details = "Initializing for the very first time in the UAE history, a dynamic-event space to let civil society expresses its will and recommendations: the Voice for Action hub."
         [[params.experience.list.items]]
-        details = "Plan and execute side events and communication strategies to amplify the initiative's messages as required"
+        details = "Plan and execute side events and communication strategies to amplify the initiative's messages"
         [[params.experience.list.items]]
         details = "Designing and planning the Voice for Action hub, ensuring its seamless integration into all aspects of operational planning"
         [[params.experience.list.items]]
@@ -261,7 +261,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         [[params.experience.list.items]]
         details = "Developping Strategic directions & projects design"
         [[params.experience.list.items]]
-        details = "Planning and executing side events and communication strategies to amplify the initiative's messages as required"
+        details = "Planning and executing side events and communication strategies to amplify the initiative's messages"
         [[params.experience.list.items]]
         details = "Performing all of the media relations activities of the CARI NGO, its networks and high-level events"
         [[params.experience.list.items]]
