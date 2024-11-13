@@ -198,7 +198,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "UNFCCC COP28 Governance - Civil Society Liaison Officer"
         dates = "Oct. - Dec. 2023"
         company = "Expo City Dubai - United Arab Emirates"
-        skills = "High-level event management, Communication, International Development, Advisory"
+        skills = "High-level event management, Advocacy & Communication, International Development, Advisory"
         location = "Dubaï (UAE)"
         details = "Initializing for the very first time in the UAE history, a dynamic-event space to let civil society expresses its will and recommendations: the Voice for Action hub."
         [[params.experience.list.items]]
