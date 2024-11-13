@@ -165,7 +165,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         text = """**14 years of experience in international advanced communication and digital transformation across Europe, North America, West Africa, and the Middle East.**
 - Driving strategy and communication with an agile mindset in complex projects, environment, and teams
 - Fostering engagement and cooperation across impactful communication
-- Managing international high-level events focused on international cooperation
+- Managing international high-level events focused on international development
 - Bridging multi-functional roles to ensure projects impact
 - Turning sustainability ambition into action through business strategies consulting"""
         moto = "Moto: Simplicity is essential. Keep it is an art."
@@ -179,7 +179,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Digital Transformation Consultant"
         dates = "Feb. 2024 - Present Day"
         company = "CGI - France"
-        skills = "Digital transformation, Change Management, Sustainability, Advisory"
+        skills = "Digital transformation, Change Management, Strategic Communication, Advisory, Sustainability"
         location = "Montpellier (FR)"
         details = "My role is both strategic and hands-on, requiring a mix of leadership, technical expertise, and business acumen."
         [[params.experience.list.items]]
@@ -253,7 +253,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         title = "Co-director in charge of communication and events"
         dates = "2017-2019"
         company = "CARI NGO - International cooperation"
-        skills = "International Development, Management, Communication, High-level event management, Advocacy"
+        skills = "International Development, Advocacy & Strategic Communication, High-level event management"
         location = "Montpellier (FR)"
         details = "French NGO coordinating 3 international civil society networks in 10 countries (Africa & Middle East) and organizing international environmental summits. As Co-director, I was in charge of:"
         [[params.experience.list.items]]
