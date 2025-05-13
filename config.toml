@@ -327,7 +327,7 @@ googleAnalytics = 'G-90QQ9M98J3'
         
         
         [[params.experience.list]]
-        title = "Projet manager"
+        title = "Project manager"
         dates = "2009"
         company = "Université de Montpellier - France"
         skills = "Communication, Design, Architecture"
